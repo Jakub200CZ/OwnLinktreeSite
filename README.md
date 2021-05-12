@@ -2,6 +2,8 @@
 
 Thanks to this ready-made project, you can create a page similar to linktr.ee on your own page with 100% you can modify it.
 
+- All you have to do is add a folder named ASSETS and put your image there and point it in the code (the folder is not needed)
+
 ## Installation
 
 Download project or copy/paste by this code.
